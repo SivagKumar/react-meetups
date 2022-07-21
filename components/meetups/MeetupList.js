@@ -9,7 +9,7 @@ function MeetupList(props) {
     const router = useRouter();
 
     function showDetailsHandler(meetupId) {
-        router.push('/' + meetupId)
+        router.push('/' + meetupId.toString())
     }
 
     return (

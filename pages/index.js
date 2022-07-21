@@ -34,7 +34,7 @@ export default function Home(props) {
 export async function getStaticProps() {
     // fetch data from an API
     const client = await MongoClient.connect(
-        'mongodb+srv://root:Tno301nQ3nWFIyqO@cluster0.b3pgo.mongodb.net/meetups?retryWrites=true&w=majority'
+        'mongodb+srv://' + process.env.DB_USER + ':' + process.env.DB_PASSWORD + '@cluster0.b3pgo.mongodb.net/meetups?retryWrites=true&w=majority'
     );
     const db = client.db();
 
