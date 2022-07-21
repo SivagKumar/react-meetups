@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-    Meetup mangement project that allows the user to add new meetups and also view meeting details
+Meetup mangement project that allows the user to add new meetups and also view meeting details
 
 ### Screenshots
 
