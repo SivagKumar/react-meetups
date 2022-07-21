@@ -12,7 +12,7 @@
       </ul>
     </li>
     <li>
-        <li><a href="#installation">Installation</a></li>
+        <a href="#installation">Installation</a>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
