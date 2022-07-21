@@ -42,9 +42,9 @@ Meetup mangement project that allows the user to add new meetups and also view m
 
 ### Built With
 
-* [Next JS](https://material-ui.com/)
+* [Next JS](https://nextjs.org/)
 * [React JS](https://reactjs.org/)
-* [Material UI](https://nextjs.org/)
+* [Material UI](https://material-ui.com/)
 
 
 ### Installation
